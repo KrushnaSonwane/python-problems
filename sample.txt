@@ -1,0 +1,2 @@
+hello there, this | is sample txt file
+read| me
